@@ -1,0 +1,7 @@
+# Ignorar todos os diretórios __pycache__
+**/__pycache__/
+
+# Ignorar todos os arquivos .pyc
+*.pyc
+
+/venv
